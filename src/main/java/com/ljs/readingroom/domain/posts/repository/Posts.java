@@ -1,6 +1,6 @@
 package com.ljs.readingroom.domain.posts.repository;
 
-import com.ljs.readingroom.global.entity.BaseTimeEntity;
+import com.ljs.readingroom.domain.BaseTimeEntity;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

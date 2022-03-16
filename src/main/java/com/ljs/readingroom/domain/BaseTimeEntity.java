@@ -1,4 +1,4 @@
-package com.ljs.readingroom.global.entity;
+package com.ljs.readingroom.domain;
 
 import lombok.Getter;
 import org.springframework.data.annotation.CreatedDate;
